@@ -1,0 +1,7 @@
+{
+    "name": "Skyballing",
+    "creator": "Deftioon",
+    "description": "A ChatTriggers Module for Hypixel Skyblock Lowballing and Flipping Tasks!",
+    "version": "0.1.0",
+    "entry": "index.js"
+  }
